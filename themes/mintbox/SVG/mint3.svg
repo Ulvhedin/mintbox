@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="mint3.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2126"
+       inkscape:collect="always">
+      <stop
+         id="stop2122"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.77017117" />
+      <stop
+         id="stop2124"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient979">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.35941321"
+         offset="0"
+         id="stop975" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop977" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient993"
+       x1="-1076.5544"
+       y1="703.24017"
+       x2="-1081.0652"
+       y2="863.85437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-360.93741,4.6307167)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient1036"
+       x1="-682.69659"
+       y1="650.60675"
+       x2="-683.1394"
+       y2="1039.5155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-360.93741,4.6307167)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient1816"
+       x1="-1768.832"
+       y1="794.14624"
+       x2="-1931.1545"
+       y2="612.31879"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1868"
+       x="-0.028573634"
+       width="1.0571473"
+       y="-0.048642256"
+       height="1.0972845">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5101285"
+         id="feGaussianBlur1870" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient1930"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-252.68503,-181.40916)"
+       x1="-1076.5544"
+       y1="703.24017"
+       x2="-1081.0652"
+       y2="863.85437" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient1932"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-252.68503,-181.40916)"
+       x1="-682.69659"
+       y1="650.60675"
+       x2="-683.1394"
+       y2="1039.5155" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient1934"
+       gradientUnits="userSpaceOnUse"
+       x1="-1768.832"
+       y1="794.14624"
+       x2="-1931.1545"
+       y2="612.31879"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,108.25238,-186.03988)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient2046"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-253.44098,-37.778208)"
+       x1="-1076.5544"
+       y1="703.24017"
+       x2="-1081.0652"
+       y2="863.85437" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient2048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-253.44098,-37.778208)"
+       x1="-682.69659"
+       y1="650.60675"
+       x2="-683.1394"
+       y2="1039.5155" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient979"
+       id="linearGradient2050"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,107.49643,-42.408928)"
+       x1="-1768.832"
+       y1="794.14624"
+       x2="-1931.1545"
+       y2="612.31879" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2126"
+       id="linearGradient2120"
+       x1="-667.96246"
+       y1="383.9411"
+       x2="-631.29816"
+       y2="384.60928"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12.828937,-49.177593)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2126"
+       id="linearGradient2194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(239.4735,-54.522984)"
+       x1="-667.96246"
+       y1="383.9411"
+       x2="-631.29816"
+       y2="384.60928" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-3555.1626"
+     inkscape:cy="442.23387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:14.53911591;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect844"
+       width="481.55875"
+       height="475.8179"
+       x="-793.32159"
+       y="-57.285767"
+       inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1890"
+       transform="translate(-112.6369,-184.45238)">
+      <g
+         style="fill:#000000;fill-opacity:0.37897309;filter:url(#filter1868)"
+         transform="translate(1.5875,2.1166667)"
+         id="g1844">
+        <flowRoot
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           transform="matrix(3.9110319,0,0,3.9110319,3463.2222,-2229.3528)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none"
+           id="flowRoot1834"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309"
+             id="flowRegion1830"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309"
+               y="605.32159"
+               x="-1056.6195"
+               height="781.85809"
+               width="874.79211"
+               id="rect1828" /></flowRegion><flowPara
+             style="fill:#000000;fill-opacity:0.37897309"
+             id="flowPara1832">M</flowPara></flowRoot>        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           id="path1836"
+           d="m -656.35348,167.72773 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 V 277.4709 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 v -83.30447 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           id="path1838"
+           d="m -536.19906,167.67192 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V 170.15239 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:connector-curvature="0"
+           id="path1840"
+           d="m -528.67353,161.44396 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172" />
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           id="path1842"
+           transform="scale(0.26458333)"
+           d="m -1998.1367,610.18164 v 59.12891 h 150.1816 c 50.2583,0 72.1351,15.96367 76.8653,54.39648 2.9563,24.8335 -1.1832,44.9378 -11.8262,58.53711 -4.5069,5.34154 -9.7677,9.50415 -15.1172,12.74219 l 54.7344,31.60156 c 1.7738,-2.36508 3.547,-4.13883 5.9121,-6.50391 10.0517,-13.00803 17.738,-27.78948 21.8769,-43.7539 4.7302,-18.3295 5.9134,-37.84164 2.9571,-59.71875 -6.504,-54.9885 -37.2505,-80.41278 -62.084,-92.23828 -26.016,-13.008 -54.3977,-14.19141 -73.3184,-14.19141 z"
+           style="fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(-2.1166667,-1.5875)"
+         id="g1826">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(3.9110319,0,0,3.9110319,3463.2222,-2229.3528)"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><flowRegion
+             id="flowRegion950"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"><rect
+               id="rect952"
+               width="874.79211"
+               height="781.85809"
+               x="-1056.6195"
+               y="605.32159"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara954"
+             style="fill:#ffffff;fill-opacity:1">M</flowPara></flowRoot>        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient993);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+           d="m -656.35348,167.72773 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 V 277.4709 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 v -83.30447 z"
+           id="flowRoot964"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1036);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+           d="m -536.19906,167.67192 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V 170.15239 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+           id="flowRoot1027"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#00d4aa;fill-opacity:1;stroke:none;stroke-width:3.91103172"
+           d="m -528.67353,161.44396 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+           id="flowRoot1159"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient1816);fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -1998.1367,610.18164 v 59.12891 h 150.1816 c 50.2583,0 72.1351,15.96367 76.8653,54.39648 2.9563,24.8335 -1.1832,44.9378 -11.8262,58.53711 -4.5069,5.34154 -9.7677,9.50415 -15.1172,12.74219 l 54.7344,31.60156 c 1.7738,-2.36508 3.547,-4.13883 5.9121,-6.50391 10.0517,-13.00803 17.738,-27.78948 21.8769,-43.7539 4.7302,-18.3295 5.9134,-37.84164 2.9571,-59.71875 -6.504,-54.9885 -37.2505,-80.41278 -62.084,-92.23828 -26.016,-13.008 -54.3977,-14.19141 -73.3184,-14.19141 z"
+           transform="scale(0.26458333)"
+           id="path1805"
+           inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       id="g2246">
+      <flowRoot
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         transform="matrix(3.9110319,0,0,3.9110319,3575.1788,-2411.6885)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;filter:url(#filter1868)"
+         id="flowRoot1898"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309"
+           id="flowRegion1894"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309"
+             y="605.32159"
+             x="-1056.6195"
+             height="781.85809"
+             width="874.79211"
+             id="rect1892" /></flowRegion><flowPara
+           style="fill:#000000;fill-opacity:0.37897309"
+           id="flowPara1896">M</flowPara></flowRoot>      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path1900"
+         d="m -544.39693,-14.60798 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 V 95.13519 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 V 11.83072 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path1902"
+         d="m -424.24251,-14.66379 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V -12.18332 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:connector-curvature="0"
+         id="path1904"
+         d="m -416.71698,-20.89175 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path1906"
+         transform="matrix(0.26458333,0,0,0.26458333,111.95655,-182.33571)"
+         d="m -1998.1367,610.18164 v 59.12891 h 150.1816 c 50.2583,0 72.1351,15.96367 76.8653,54.39648 2.9563,24.8335 -1.1832,44.9378 -11.8262,58.53711 -4.5069,5.34154 -9.7677,9.50415 -15.1172,12.74219 l 54.7344,31.60156 c 1.7738,-2.36508 3.547,-4.13883 5.9121,-6.50391 10.0517,-13.00803 17.738,-27.78948 21.8769,-43.7539 4.7302,-18.3295 5.9134,-37.84164 2.9571,-59.71875 -6.504,-54.9885 -37.2505,-80.41278 -62.084,-92.23828 -26.016,-13.008 -54.3977,-14.19141 -73.3184,-14.19141 z"
+         style="fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1868)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(3.9110319,0,0,3.9110319,3571.4746,-2415.3927)"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           id="flowRegion1912"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"><rect
+             id="rect1910"
+             width="874.79211"
+             height="781.85809"
+             x="-1056.6195"
+             y="605.32159"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara1914"
+           style="fill:#ffffff;fill-opacity:1">M</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1930);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+         d="m -548.1011,-18.31215 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 V 91.43102 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 V 8.12655 Z"
+         id="path1918"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1932);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+         d="m -427.94668,-18.36796 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V -15.88749 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+         id="path1920"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:3.91103172"
+         d="m -420.42115,-24.59592 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+         id="path1922"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient1934);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -420.42128,-24.59599 v 15.6445241 h 39.73555 c 13.2975,0 19.08574,4.223721 20.33727,14.3924018 0.78219,6.5705301 -0.31305,11.8897931 -3.12901,15.4879431 -1.19245,1.413283 -2.58437,2.51464 -3.99976,3.371371 l 14.48181,8.361246 c 0.46932,-0.62576 0.93848,-1.095065 1.56424,-1.720826 2.65951,-3.441708 4.69318,-7.352633 5.78826,-11.576552 1.25154,-4.84968 1.56459,-10.0122674 0.7824,-15.800586 -1.72085,-14.54904 -9.85586,-21.275881 -16.42639,-24.404711 -6.8834,-3.4417 -14.39272,-3.754811 -19.39882,-3.754811 z"
+         id="path1924"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g2091"
+       transform="translate(12.343649,2.1708612)">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#00d4aa;fill-opacity:1;stroke:none;stroke-width:3.88549638"
+         d="m -659.40985,119.81391 v 15.54239 h 39.47614 c 13.21069,0 18.96111,4.19614 20.20447,14.29843 0.7771,6.52763 -0.31102,11.81216 -3.10859,15.38682 -4.19633,4.97344 -10.87894,6.06123 -12.27773,6.21665 l -25.48879,0.15555 c -4.19633,0 -7.7712,3.41892 -7.7712,7.77068 0.15542,4.19634 3.57487,7.77119 7.7712,7.77119 h 0.15503 l 25.79993,-0.15556 h 0.46615 c 0.15543,0 2.79742,-0.15551 6.21665,0.46616 3.1084,0.62169 7.61582,2.02037 10.72421,5.12878 3.57464,3.73007 5.1286,9.48083 4.35149,17.09641 -0.62168,6.68305 -2.79758,11.19 -6.99391,13.67671 -3.1084,2.02046 -7.61517,3.10858 -12.89944,3.10858 h -46.49263 v 15.54188 h 46.49263 c 8.39267,0 15.38627,-1.86473 21.13679,-5.43939 4.04091,-2.48671 7.14963,-5.75047 9.63633,-9.79138 2.48671,-4.50719 4.04093,-9.63604 4.66261,-15.69742 0.46628,-6.37221 -3.4e-4,-12.12297 -1.55453,-17.09641 -1.55421,-4.81802 -4.0407,-8.85901 -7.30452,-12.27825 -1.86505,-1.86503 -3.88536,-3.41938 -6.21666,-4.81816 0.46626,-0.62168 0.93235,-1.08791 1.55404,-1.70959 2.64214,-3.41924 4.66256,-7.30463 5.7505,-11.50097 1.24336,-4.81802 1.55436,-9.94689 0.77726,-15.69742 -1.70962,-14.45405 -9.79151,-21.13698 -16.31914,-24.24538 -6.83846,-3.41923 -14.29873,-3.7303 -19.27215,-3.7303 z"
+         id="path2000"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(3.9110319,0,0,3.9110319,3347.7127,-2271.7617)"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           id="flowRegion1990"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"><rect
+             id="rect1988"
+             width="874.79211"
+             height="781.85809"
+             x="-1056.6195"
+             y="605.32159"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara1992"
+           style="fill:#ffffff;fill-opacity:1">M</flowPara></flowRoot>    </g>
+    <g
+       id="g2228"
+       transform="translate(0.75595)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;filter:url(#filter1868)"
+         transform="matrix(3.9110319,0,0,3.9110319,3574.4228,-2268.0575)"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           id="flowRegion2010"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309"><rect
+             id="rect2008"
+             width="874.79211"
+             height="781.85809"
+             x="-1056.6195"
+             y="605.32159"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#000000;fill-opacity:0.37897309" /></flowRegion><flowPara
+           id="flowPara2012"
+           style="fill:#000000;fill-opacity:0.37897309">M</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)"
+         d="m -545.15288,129.02297 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 v 107.31851 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 v -83.30447 z"
+         id="path2016"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:connector-curvature="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)"
+         d="m -424.99846,128.96716 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V 131.44763 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+         id="path2018"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:3.91103172;filter:url(#filter1868)"
+         d="m -417.47293,122.7392 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+         id="path2020"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#000000;fill-opacity:0.37897309;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1868)"
+         d="m -1998.1367,610.18164 v 59.12891 h 150.1816 c 50.2583,0 72.1351,15.96367 76.8653,54.39648 2.9563,24.8335 -1.1832,44.9378 -11.8262,58.53711 -4.5069,5.34154 -9.7677,9.50415 -15.1172,12.74219 l 54.7344,31.60156 c 1.7738,-2.36508 3.547,-4.13883 5.9121,-6.50391 10.0517,-13.00803 17.738,-27.78948 21.8769,-43.7539 4.7302,-18.3295 5.9134,-37.84164 2.9571,-59.71875 -6.504,-54.9885 -37.2505,-80.41278 -62.084,-92.23828 -26.016,-13.008 -54.3977,-14.19141 -73.3184,-14.19141 z"
+         transform="matrix(0.26458333,0,0,0.26458333,111.2006,-38.704758)"
+         id="path2022"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         transform="matrix(3.9110319,0,0,3.9110319,3570.7186,-2271.7617)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot2030"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"
+           id="flowRegion2026"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"
+             y="605.32159"
+             x="-1056.6195"
+             height="781.85809"
+             width="874.79211"
+             id="rect2024" /></flowRegion><flowPara
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowPara2028">M</flowPara></flowRoot>      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path2032"
+         d="m -548.85705,125.3188 c -0.24701,0.76645 -0.38034,1.5811 -0.38034,2.42466 v 107.31851 c 0,4.22391 3.59834,7.82227 7.82228,7.82227 4.38033,0 7.82224,-3.59836 7.82224,-7.82227 V 151.7575 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2046);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path2034"
+         d="m -428.70263,125.26299 -15.25747,26.4263 0.008,-0.0104 v 83.38303 c 0,4.22391 3.59834,7.82227 7.82226,7.82227 4.38035,0 7.82174,-3.59836 7.82174,-7.82227 V 127.74346 c 0,-0.86393 -0.13808,-1.69795 -0.39429,-2.48047 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2048);fill-opacity:1;stroke:none;stroke-width:3.91103172"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:connector-curvature="0"
+         id="path2036"
+         d="m -421.1771,119.03503 v 15.64453 h 39.73558 c 13.29751,0 19.08572,4.22372 20.33725,14.3924 0.78221,6.57053 -0.31306,11.88979 -3.12902,15.48794 -4.22391,5.00612 -10.95044,6.10106 -12.35842,6.2575 l -25.6563,0.15658 c -4.22391,0 -7.82227,3.44139 -7.82227,7.82175 0.15644,4.22391 3.59836,7.82226 7.82227,7.82226 h 0.15605 l 25.96949,-0.15658 h 0.46921 c 0.15645,0 2.8158,-0.15654 6.2575,0.46922 3.12883,0.62577 7.66588,2.03365 10.79469,5.16248 3.59814,3.75459 5.16231,9.54314 4.38009,17.20877 -0.62576,6.72697 -2.81596,11.26354 -7.03987,13.76659 -3.12883,2.03374 -7.66522,3.12901 -12.98422,3.12901 h -46.79817 v 15.64402 h 46.79817 c 8.44783,0 15.48739,-1.87698 21.2757,-5.47513 4.06747,-2.50306 7.19662,-5.78826 9.69966,-9.85573 2.50306,-4.53681 4.06749,-9.69937 4.69325,-15.80058 0.46935,-6.41409 -3.4e-4,-12.20265 -1.56474,-17.20877 -1.56443,-4.84968 -4.06726,-8.91723 -7.35253,-12.35894 -1.8773,-1.87729 -3.91089,-3.44186 -6.25751,-4.84983 0.46932,-0.62576 0.93848,-1.09506 1.56425,-1.72082 2.65951,-3.44171 4.6932,-7.35264 5.78829,-11.57656 1.25153,-4.84968 1.56458,-10.01226 0.78237,-15.80058 -1.72085,-14.54904 -9.85586,-21.27589 -16.42639,-24.40472 -6.8834,-3.4417 -14.3927,-3.75481 -19.3988,-3.75481 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:3.91103172" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         id="path2038"
+         d="m -421.17723,119.03496 v 15.64453 h 39.73555 c 13.2975,0 19.08574,4.22372 20.33727,14.3924 0.78219,6.57053 -0.31305,11.88979 -3.12901,15.48794 -1.19245,1.41328 -2.58437,2.51464 -3.99976,3.37137 l 14.48181,8.36125 c 0.46932,-0.62576 0.93848,-1.09507 1.56424,-1.72083 2.65951,-3.44171 4.69318,-7.35263 5.78826,-11.57655 1.25154,-4.84968 1.56459,-10.01227 0.7824,-15.80059 -1.72085,-14.54904 -9.85586,-21.27588 -16.42639,-24.40471 -6.8834,-3.4417 -14.39272,-3.75481 -19.39882,-3.75481 z"
+         style="fill:url(#linearGradient2050);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2202"
+       transform="translate(8.0673392)">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:connector-curvature="0"
+         id="path2093"
+         d="m -655.13353,273.76116 v 15.54239 h 39.47614 c 13.21069,0 18.96111,4.19614 20.20447,14.29843 0.7771,6.52763 -0.31102,11.81216 -3.10859,15.38682 -4.19633,4.97344 -10.87894,6.06123 -12.27773,6.21665 l -25.48879,0.15555 c -4.19633,0 -7.7712,3.41892 -7.7712,7.77068 0.15542,4.19634 3.57487,7.77119 7.7712,7.77119 h 0.15503 l 25.79993,-0.15556 h 0.46615 c 0.15543,0 2.79742,-0.15551 6.21665,0.46616 3.1084,0.62169 7.61582,2.02037 10.72421,5.12878 3.57464,3.73007 5.1286,9.48083 4.35149,17.09641 -0.62168,6.68305 -2.79758,11.19 -6.99391,13.67671 -3.1084,2.02046 -7.61517,3.10858 -12.89944,3.10858 h -46.49263 v 15.54188 h 46.49263 c 8.39267,0 15.38627,-1.86473 21.13679,-5.43939 4.04091,-2.48671 7.14963,-5.75047 9.63633,-9.79138 2.48671,-4.50719 4.04093,-9.63604 4.66261,-15.69742 0.46628,-6.37221 -3.4e-4,-12.12297 -1.55453,-17.09641 -1.55421,-4.81802 -4.0407,-8.85901 -7.30452,-12.27825 -1.86505,-1.86503 -3.88536,-3.41938 -6.21666,-4.81816 0.46626,-0.62168 0.93235,-1.08791 1.55404,-1.70959 2.64214,-3.41924 4.66256,-7.30463 5.7505,-11.50097 1.24336,-4.81802 1.55436,-9.94689 0.77726,-15.69742 -1.70962,-14.45405 -9.79151,-21.13698 -16.31914,-24.24538 -6.83846,-3.41923 -14.29873,-3.7303 -19.27215,-3.7303 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#00d4aa;fill-opacity:1;stroke:none;stroke-width:3.88549638" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2120);fill-opacity:1;stroke:none;stroke-width:3.88549638"
+         d="m -655.13353,273.76116 v 15.54239 h 39.47614 c 13.21069,0 18.96111,4.19614 20.20447,14.29843 0.7771,6.52763 -0.31102,11.81216 -3.10859,15.38682 -4.19633,4.97344 -10.87894,6.06123 -12.27773,6.21665 l -25.48879,0.15555 c -4.19633,0 -7.7712,3.41892 -7.7712,7.77068 0.15542,4.19634 3.57487,7.77119 7.7712,7.77119 h 0.15503 l 25.79993,-0.15556 h 0.46615 c 0.15543,0 2.79742,-0.15551 6.21665,0.46616 3.1084,0.62169 7.61582,2.02037 10.72421,5.12878 3.57464,3.73007 5.1286,9.48083 4.35149,17.09641 -0.62168,6.68305 -2.79758,11.19 -6.99391,13.67671 -3.1084,2.02046 -7.61517,3.10858 -12.89944,3.10858 h -46.49263 v 15.54188 h 46.49263 c 8.39267,0 15.38627,-1.86473 21.13679,-5.43939 4.04091,-2.48671 7.14963,-5.75047 9.63633,-9.79138 2.48671,-4.50719 4.04093,-9.63604 4.66261,-15.69742 0.46628,-6.37221 -3.4e-4,-12.12297 -1.55453,-17.09641 -1.55421,-4.81802 -4.0407,-8.85901 -7.30452,-12.27825 -1.86505,-1.86503 -3.88536,-3.41938 -6.21666,-4.81816 0.46626,-0.62168 0.93235,-1.08791 1.55404,-1.70959 2.64214,-3.41924 4.66256,-7.30463 5.7505,-11.50097 1.24336,-4.81802 1.55436,-9.94689 0.77726,-15.69742 -1.70962,-14.45405 -9.79151,-21.13698 -16.31914,-24.24538 -6.83846,-3.41923 -14.29873,-3.7303 -19.27215,-3.7303 z"
+         id="path2112"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <flowRoot
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         transform="matrix(3.9110319,0,0,3.9110319,3351.989,-2117.8145)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot2101"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"
+           id="flowRegion2097"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"
+             y="605.32159"
+             x="-1056.6195"
+             height="781.85809"
+             width="874.79211"
+             id="rect2095" /></flowRegion><flowPara
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowPara2099">M</flowPara></flowRoot>    </g>
+    <g
+       id="g2210"
+       transform="translate(3.7592046)">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:3.88549638"
+         d="m -428.48897,268.41577 v 15.54239 h 39.47614 c 13.21069,0 18.96111,4.19614 20.20447,14.29843 0.7771,6.52763 -0.31102,11.81216 -3.10859,15.38682 -4.19633,4.97344 -10.87894,6.06123 -12.27773,6.21665 l -25.48879,0.15555 c -4.19633,0 -7.7712,3.41892 -7.7712,7.77068 0.15542,4.19634 3.57487,7.77119 7.7712,7.77119 h 0.15503 l 25.79993,-0.15556 h 0.46615 c 0.15543,0 2.79742,-0.15551 6.21665,0.46616 3.1084,0.62169 7.61582,2.02037 10.72421,5.12878 3.57464,3.73007 5.1286,9.48083 4.35149,17.09641 -0.62168,6.68305 -2.79758,11.19 -6.99391,13.67671 -3.1084,2.02046 -7.61517,3.10858 -12.89944,3.10858 h -46.49263 v 15.54188 h 46.49263 c 8.39267,0 15.38627,-1.86473 21.13679,-5.43939 4.04091,-2.48671 7.14963,-5.75047 9.63633,-9.79138 2.48671,-4.50719 4.04093,-9.63604 4.66261,-15.69742 0.46628,-6.37221 -3.4e-4,-12.12297 -1.55453,-17.09641 -1.55421,-4.81802 -4.0407,-8.85901 -7.30452,-12.27825 -1.86505,-1.86503 -3.88536,-3.41938 -6.21666,-4.81816 0.46626,-0.62168 0.93235,-1.08791 1.55404,-1.70959 2.64214,-3.41924 4.66256,-7.30463 5.7505,-11.50097 1.24336,-4.81802 1.55436,-9.94689 0.77726,-15.69742 -1.70962,-14.45405 -9.79151,-21.13698 -16.31914,-24.24538 -6.83846,-3.41923 -14.29873,-3.7303 -19.27215,-3.7303 z"
+         id="path2182"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:connector-curvature="0"
+         id="path2184"
+         d="m -428.48897,268.41577 v 15.54239 h 39.47614 c 13.21069,0 18.96111,4.19614 20.20447,14.29843 0.7771,6.52763 -0.31102,11.81216 -3.10859,15.38682 -4.19633,4.97344 -10.87894,6.06123 -12.27773,6.21665 l -25.48879,0.15555 c -4.19633,0 -7.7712,3.41892 -7.7712,7.77068 0.15542,4.19634 3.57487,7.77119 7.7712,7.77119 h 0.15503 l 25.79993,-0.15556 h 0.46615 c 0.15543,0 2.79742,-0.15551 6.21665,0.46616 3.1084,0.62169 7.61582,2.02037 10.72421,5.12878 3.57464,3.73007 5.1286,9.48083 4.35149,17.09641 -0.62168,6.68305 -2.79758,11.19 -6.99391,13.67671 -3.1084,2.02046 -7.61517,3.10858 -12.89944,3.10858 h -46.49263 v 15.54188 h 46.49263 c 8.39267,0 15.38627,-1.86473 21.13679,-5.43939 4.04091,-2.48671 7.14963,-5.75047 9.63633,-9.79138 2.48671,-4.50719 4.04093,-9.63604 4.66261,-15.69742 0.46628,-6.37221 -3.4e-4,-12.12297 -1.55453,-17.09641 -1.55421,-4.81802 -4.0407,-8.85901 -7.30452,-12.27825 -1.86505,-1.86503 -3.88536,-3.41938 -6.21666,-4.81816 0.46626,-0.62168 0.93235,-1.08791 1.55404,-1.70959 2.64214,-3.41924 4.66256,-7.30463 5.7505,-11.50097 1.24336,-4.81802 1.55436,-9.94689 0.77726,-15.69742 -1.70962,-14.45405 -9.79151,-21.13698 -16.31914,-24.24538 -6.83846,-3.41923 -14.29873,-3.7303 -19.27215,-3.7303 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient2194);fill-opacity:1;stroke:none;stroke-width:3.88549638" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Aquatico;-inkscape-font-specification:Aquatico;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(3.9110319,0,0,3.9110319,3578.6336,-2123.1599)"
+         inkscape:export-filename="/home/mufflon/Nextcloud/Projekty/MintBox/mb.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><flowRegion
+           id="flowRegion2188"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1"><rect
+             id="rect2186"
+             width="874.79211"
+             height="781.85809"
+             x="-1056.6195"
+             y="605.32159"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aquatico;-inkscape-font-specification:Aquatico;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara2190"
+           style="fill:#ffffff;fill-opacity:1">M</flowPara></flowRoot>    </g>
+  </g>
+</svg>
